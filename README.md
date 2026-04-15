@@ -1,4 +1,4 @@
-# Credit Risk Modeling — End-to-End Pipeline
+# Credit Risk Modeling — Machine Learning
 
 Projeto completo de modelagem de risco de crédito, cobrindo desde ingestão e tratamento de dados até treinamento, avaliação e interpretação de modelos preditivos.
 
